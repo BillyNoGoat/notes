@@ -4,5 +4,5 @@ This is purely a personal repository I've made public for ease of use sharing an
 Much of this is simply a "writeup" of specific sources which helps me commit it to memory when writing it out.
 Some notes are very minimal either due to not needing more info or having moved onto something else.
 
-### format
+### Format
 I write my notes in markdown using a plugin called [Markdown preview enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/). There's a plugin for VScode too, but i prefer to keep notes in atom and code in vscode.
