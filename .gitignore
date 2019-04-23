@@ -4,3 +4,4 @@ websec/recon
 live-overflow/google-bigquery-search/keys.csv
 live-overflow/google-bigquery-search/seeds_only_unclean.csv
 *.pdf
+*.dmg
