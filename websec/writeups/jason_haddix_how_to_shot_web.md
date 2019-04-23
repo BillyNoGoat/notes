@@ -1,3 +1,6 @@
+**NOTE**
+This is part of a yearly talk run by Jason Haddix to give updates on the current state of bug bounties and the tools that exist. This is fast paced and therefore much of this information has been replaced by newer tech. See most recent **Bug Hunter methodology** to keep updated.
+
 ## Discovery
 #### Find a road less travelled
 - You can attack the top application but it's probably been bashed and beaten a lot of the time already. It's probably had bounties for a long time. You want to find sub domains or obscure web servers on different ports.
